@@ -1,5 +1,5 @@
 # alexa-myfavorite-sample-skill
-alexa invocation name - "sateesh favorite color"
+alexa invocation name - "open my favorite color"
 
 ## Intent schema
 ```json
