@@ -1,0 +1,19 @@
+{
+  "name": "my-favorite-color",
+  "version": "1.0.0",
+  "description": "My Favorite color sample alexa skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "my favorite color"
+  ],
+  "author": "Sateesh Kodati",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-sdk": "^1.0.8"
+  }
+}
